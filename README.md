@@ -1,5 +1,5 @@
 ### Hi there, I am Ema 👋
 
-Analytics, Data Science, automation, and business development that fosters innovation are my passion. In the past few years, I was allowed to develop these skills further thanks to studying in a rigorous academic environment and immersing myself in automation and analytics. Currently, I am aiming to expand my IT skills as a part of my way to becoming a Data Scientist.
+Data Science, business analytics, automation, and business development that fosters innovation have been my focus for the last couple of years. In the past, I was allowed to develop these skills further thanks to studying in a rigorous academic environment and immersing myself in automation and analytics. Currently, I would like to put my machine learning skills to practice and advance my career as an entry-level Data Scientist who is aspiring to master the implementation of artificial intelligence.
 
 If you have and intersting projects I could possibly help with, feel free to reach out!
